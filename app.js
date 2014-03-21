@@ -135,7 +135,7 @@
 				recordTemplate = Template.modalRecord,
 				newRecord,
 				recordsList = [],
-				img = '<img src="{{pathurl}}"" height=120 />';
+				img = '<img src="{{pathurl}}"" width=200 />';
 
 			// Adding the image first
 			if(data.hasOwnProperty('cover')) {
